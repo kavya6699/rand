@@ -1,1 +1,2 @@
-example.txt
+*.txt
+!example.txt
